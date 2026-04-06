@@ -4,12 +4,18 @@ This assignment builds a deep learning based sentiment analysis system using the
 
 📚 Course Details
 Course Code: ETMMDL274
+
 Course Name: Deep Learning Architectures and Techniques
+
 Program: MCA (AI/ML)
+
 Semester: 2nd
+
 👨‍🎓 Student Details
-Name: Ashish Raj
-Roll No: 2501940024
+
+Name: Shashi Kant
+
+Roll No: 2501940016
 
 ## Objective
 
