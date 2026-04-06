@@ -2,6 +2,14 @@
 
 This assignment builds a deep learning based sentiment analysis system using the IMDb movie review dataset. The notebook trains two sequence models, a simple Recurrent Neural Network (RNN) and a Long Short-Term Memory (LSTM) network, and compares how well they classify reviews as positive or negative.
 
+📚 Course Details
+Course Code: ETMMDL274
+Course Name: Deep Learning Architectures and Techniques
+Program: MCA (AI/ML)
+Semester: 2nd
+👨‍🎓 Student Details
+Name: Ashish Raj
+Roll No: 2501940024
 
 ## Objective
 
